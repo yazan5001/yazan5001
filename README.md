@@ -1,43 +1,45 @@
-# 👋 Hi, I'm **Yazan Alsalloum**  
-### *Software Developer & Fortnite Island Mapper* 🌴🎮🚀  
+# 👋 Hey, I'm Yazan Alsalloum
 
-![Final Year Badge](https://img.shields.io/badge/Final%20Year-Software%20Development-blueviolet?style=for-the-badge)
-
-I'm a passionate **second-year software developer** in my final year! I love building web apps, experimenting with game design, and working on creative projects that blend code with visuals. From Laravel backends to Fortnite islands — I bring digital ideas to life.
+### 💼 Final-Year Software Developer · WordPress & Laravel Dev · Fortnite Creative Designer  
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=yazan&label=Profile%20views&color=0e75b6&style=flat)
+I'm a driven and creative **final-year software development student** who's already applying his skills in the real world.  
+While finishing my studies, I also work at a company where I develop modern websites using **WordPress (Divi Builder)** and maintain full-stack projects with **Laravel**.
+
+Whether it's building smooth user experiences, crafting backend logic, or designing Fortnite maps — I always aim to deliver high-quality results with a creative touch.
 
 ---
 
-## 📬 Connect with Me  
+## 🚀 What I Do
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40yazan__lwa-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yazan_lwa/)  
-📧 School Email: `d273050@edu.curio.nl`
-
----
-
-## 🛠️ Languages & Tools  
-
-### 💻 Programming  
-- **Languages:** `C#`, `JavaScript`, `Python`, `PHP`  
-- **Frameworks:** `Laravel`  
-- **CMS & Builders:** `WordPress (Divi)`  
-- **Databases:** `MySQL`  
-- **Design & Dev Tools:** `Git`, `HTML5`, `CSS3`, `Blender`, `Unreal Engine 5 (Fortnite Creative)`  
+- 🎓 **Final-Year Student** – Curio Software Developer
+- 💼 **Part-time Developer** – Building real client websites using WordPress (Divi), SEO tools & cookie compliance
+- 🔧 **Laravel Projects** – CRUD systems, authentication, backend logic, MySQL DBs
+- 🎮 **Fortnite Island Creator** – Designing immersive Fortnite Creative experiences
+- 🌍 **Freelance Experience** – Webdesign, bug fixing & maintaining small business sites
 
 ---
 
-## 🌐 Projects & Creations
+## 🛠️ Tech Stack & Tools
 
-### 🖥️ Web Development  
-- Built full-stack web apps using **Laravel**, **MySQL**, and **PHP**  
-- Developed multiple websites using **WordPress** and the **Divi Builder**, focused on modern UI/UX  
-- Integrated SEO tools like **All in One SEO** and cookie compliance with **Complianz**
+| Category        | Tools/Tech                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| 💻 Languages     | `PHP`, `JavaScript`, `C#`, `Python`                                         |
+| ⚙️ Frameworks    | `Laravel`, `WordPress (Divi)`                                               |
+| 🗃️ Databases     | `MySQL`                                                                     |
+| 🧰 Tools         | `Git`, `HTML`, `CSS`, `All in One SEO`, `Complianz`, `Laragon`             |
+| 🎮 Game Design   | `Fortnite Creative`, `Blender`, `Unreal Engine 5`                           |
 
-### 🎮 Fortnite Map Creations  
-Creative Fortnite island designer with a passion for competitive and casual game modes. Below are some of my original maps:
+---
+
+## 🎮 Fortnite Creative Maps
+
+In my free time, I unleash my creativity through **Fortnite Island Mapping**.  
+I design everything from competitive 1v1 arenas to full zone wars maps.  
+Each map is built with gameplay flow and visual storytelling in mind.
+
+> 📸 *Showcase below (screenshots hosted locally or in repo)*
 
 <div>
   <img src="Schermafbeelding 2024-02-26 160128.png" alt="Map Screenshot" width="100">
@@ -52,7 +54,16 @@ Creative Fortnite island designer with a passion for competitive and casual game
 
 ---
 
-## 💡 Fun Fact  
-I treat every project — whether it's a Laravel API or a Fortnite island — like a level-up opportunity 🚀  
-Let’s keep building cool stuff. Thanks for checking out my profile!
+## 📫 Contact
+
+- 📸 [Instagram – @yazan_lwa](https://www.instagram.com/yazan_lwa/)
+- 📧 School Email: `d273050@edu.curio.nl`
+
+---
+
+## 💡 About Me in One Line:
+
+> *Blending code, creativity, and real-world experience — building both digital solutions and virtual adventures.*
+
+---
 
