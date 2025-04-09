@@ -39,18 +39,7 @@ In my free time, I unleash my creativity through **Fortnite Island Mapping**.
 I design everything from competitive 1v1 arenas to full zone wars maps.  
 Each map is built with gameplay flow and visual storytelling in mind.
 
-> 📸 *Showcase below (screenshots hosted locally or in repo)*
 
-<div>
-  <img src="Schermafbeelding 2024-02-26 160128.png" alt="Map Screenshot" width="100">
-  <img src="1v1min.png" alt="1v1 Map" width="100">
-  <img src="aim.png" alt="Aim Map" width="100">
-  <img src="free.png" alt="Free Map" width="100">
-  <img src="red.png" alt="Red Map" width="100">
-  <img src="tomato.png" alt="Tomato Map" width="100">
-  <img src="trio.png" alt="Trio Map" width="100">
-  <img src="zone.png" alt="Zone Map" width="100">
-</div>
 
 ---
 
