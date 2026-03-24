@@ -1,58 +1,28 @@
-# 👋 Hey, I'm Yazan Alsalloum
+# ⚡ Hello, I'm Yazan | Web Admin & Verse Dev
 
-### 💼 Final-Year Software Developer · WordPress & Laravel Dev · Fortnite Creative Designer  
-
----
-
-I'm a driven and creative **final-year software development student** who's already applying his skills in the real world.  
-While finishing my studies, I also work at a company where I develop modern websites using **WordPress (Divi Builder)** and maintain full-stack projects with **Laravel**.
-
-Whether it's building smooth user experiences, crafting backend logic, or designing Fortnite maps — I always aim to deliver high-quality results with a creative touch.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yazan5001&show_icons=true&theme=tokyonight" alt="Yazan's GitHub Stats" />
+</div>
 
 ---
 
-## 🚀 What I Do
+### 🚀 Projects I Manage
+I am the lead administrator and technical developer for high-end scent marketing platforms:
+* **[Zaluti](https://zaluti.com)** & **[Zaluti DE](https://zaluti.com/de)** – Premium Scent Systems.
+* **[AllSents](https://allsents.com)** – Sensory Branding Solutions.
 
-- 🎓 **Final-Year Student** – Curio Software Developer
-- 💼 **Part-time Developer** – Building real client websites using WordPress (Divi), SEO tools & cookie compliance
-- 🔧 **Laravel Projects** – CRUD systems, authentication, backend logic, MySQL DBs
-- 🎮 **Fortnite Island Creator** – Designing immersive Fortnite Creative experiences
-- 🌍 **Freelance Experience** – Webdesign, bug fixing & maintaining small business sites
+### 🛠 My Professional Toolkit
+- **Frontend:** HTML5, CSS3 (Modern Layouts), JavaScript.
+- **Backend:** WordPress Core, PHP Snippets, Plugin Customization.
+- **Gaming:** Verse (UEFN), Unreal Engine Logic.
 
----
-
-## 🛠️ Tech Stack & Tools
-
-| Category        | Tools/Tech                                                                 |
-|----------------|-----------------------------------------------------------------------------|
-| 💻 Languages     | `PHP`, `JavaScript`, `C#`, `Python`                                         |
-| ⚙️ Frameworks    | `Laravel`, `WordPress (Divi)`                                               |
-| 🗃️ Databases     | `MySQL`                                                                     |
-| 🧰 Tools         | `Git`, `HTML`, `CSS`, `All in One SEO`, `Complianz`, `Laragon`             |
-| 🎮 Game Design   | `Fortnite Creative`, `Blender`, `Unreal Engine 5`                           |
+### 🎮 Fortnite Creative 2.0 (UEFN)
+I build advanced gameplay mechanics and immersive environments using **Verse**. Check out my `fortnite-verse-projects` repository for my latest scripts!
 
 ---
 
-## 🎮 Fortnite Creative Maps
-
-In my free time, I unleash my creativity through **Fortnite Island Mapping**.  
-I design everything from competitive 1v1 arenas to full zone wars maps.  
-Each map is built with gameplay flow and visual storytelling in mind.
-
-
+### 📊 GitHub Activity
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazan5001&layout=compact&theme=tokyonight)
 
 ---
-
-## 📫 Contact
-
-- 📸 [Instagram – @yazan_lwa](https://www.instagram.com/yazan_lwa/)
-- 📧 School Email: `d273050@edu.curio.nl`
-
----
-
-## 💡 About Me in One Line:
-
-> *Blending code, creativity, and real-world experience — building both digital solutions and virtual adventures.*
-
----
-
+📫 **Get in touch:** [Your Email Here] | [Your LinkedIn Here]
