@@ -1,19 +1,14 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=52&duration=3000&pause=4000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=80&lines=YAZAN+ALSALLOUM" alt="Yazan Alsalloum" />
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2000&pause=3000&color=888888&background=00000000&center=true&vCenter=true&width=600&lines=Web+Builder+%C2%B7+Automation+Engineer+%C2%B7+Game+Creator;Breda%2C+Netherlands+%C2%B7+Arabic+%2F+Dutch+%2F+English;MBO+4+Versneld+%E2%80%94+Graduating+03+June+2025" alt="subtitle" />
-</p>
+<div align="center">
 
 <br>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=80&duration=1&pause=99999&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=100&lines=YAZAN+ALSALLOUM" />
 
-![](https://img.shields.io/badge/STATUS-ONLINE-fff?style=flat-square&labelColor=000)&nbsp;
-![](https://img.shields.io/badge/LOCATION-BREDA_NL-fff?style=flat-square&labelColor=000)&nbsp;
-![](https://img.shields.io/badge/OPEN_TO-COLLABS-fff?style=flat-square&labelColor=000)&nbsp;
-![](https://komarev.com/ghpvc/?username=yazan5001&style=flat-square&color=000&label=VIEWS)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=1&pause=99999&color=999999&background=00000000&center=true&vCenter=true&width=500&height=24&lines=WEB+BUILDER+%E2%80%A2+AUTOMATION+ENGINEER+%E2%80%A2+UEFN+CREATOR" />
+
+<br>
+
+![](https://img.shields.io/badge/Breda_·_Netherlands-ffffff?style=flat-square&color=111111&labelColor=111111)&nbsp;![](https://img.shields.io/badge/Arabic_·_Dutch_·_English-ffffff?style=flat-square&color=111111&labelColor=111111)&nbsp;![](https://img.shields.io/badge/MBO_4_·_June_2025-ffffff?style=flat-square&color=111111&labelColor=111111)&nbsp;![](https://komarev.com/ghpvc/?username=yazan5001&style=flat-square&color=111111&labelColor=000000&label=views)
 
 </div>
 
@@ -25,59 +20,13 @@
 
 <div align="center">
 
-## `DASHBOARD`
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=yazan5001&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=666666&count_private=true&include_all_commits=true&custom_title=GITHUB+METRICS" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=yazan5001&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=ffffff&count_private=true&hide_title=true&ring_color=ffffff" height="155"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazan5001&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&langs_count=6" height="170" />
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazan5001&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=ffffff&langs_count=5&count_private=true" height="155"/>
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yazan5001&theme=dark&hide_border=true&background=000000&stroke=111111&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&dates=444444&currStreakNum=ffffff&sideNums=ffffff&mode=weekly" width="720" />
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## `SKILLS`
-
-<br>
-
-```
-Web Development     ████████████████████░░  90%
-AI & Automation     ███████████████████░░░  85%
-WordPress Admin     ████████████████████░░  92%
-Fortnite UEFN       ████████████████░░░░░░  75%
-Figma & Design      ███████████████░░░░░░░  70%
-n8n Workflows       ███████████████████░░░  88%
-```
-
-<br>
-
----
-
-<br>
-
-## `SITES`
-
-<br>
-
-<div align="center">
-
-| `01` | [`allsens.nl`](https://allsens.nl) | Divi · Elementor · AIOSEO | 🟢 |
-|---|---|---|---|
-| `02` | [`zaluti.com`](https://zaluti.com) | Divi · Max Mega Menu · Figma | 🟢 |
-| `03` | [`zaluti.com/de`](https://zaluti.com/de) | Divi · Elementor · AIOSEO | 🟢 |
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yazan5001&hide_border=true&background=0d0d0d&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff" width="680"/>
 
 </div>
 
@@ -87,43 +36,19 @@ n8n Workflows       ███████████████████░
 
 <br>
 
-## `AUTOMATION`
+### `I manage 3 live production websites`
 
 <br>
 
 <div align="center">
 
-![n8n](https://img.shields.io/badge/n8n-000?style=for-the-badge&logo=n8n&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-000?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=openai&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-000?style=for-the-badge&logoColor=white)
-
-</div>
+[![](https://img.shields.io/badge/allsens.nl-↗-ffffff?style=for-the-badge&labelColor=111111&color=111111)](https://allsens.nl)&nbsp;
+[![](https://img.shields.io/badge/zaluti.com-↗-ffffff?style=for-the-badge&labelColor=111111&color=111111)](https://zaluti.com)&nbsp;
+[![](https://img.shields.io/badge/zaluti.com%2Fde-↗-ffffff?style=for-the-badge&labelColor=111111&color=111111)](https://zaluti.com/de)
 
 <br>
 
-```
-Trigger  ──▶  n8n Engine  ──▶  AI Node  ──▶  Output
-                    └──▶  API Call  ──▶  Database
-                    └──▶  Schedule  ──▶  Notification
-```
-
-<br>
-
----
-
-<br>
-
-## `GAME DEV`
-
-<br>
-
-<div align="center">
-
-![UEFN](https://img.shields.io/badge/UEFN-000?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Verse](https://img.shields.io/badge/Verse_Lang-000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-[![Maps](https://img.shields.io/badge/VIEW_MY_MAPS_→_fortnite.gg/creator?name=kkr-000?style=for-the-badge&logo=unrealengine&logoColor=white)](https://fortnite.gg/creator?name=kkr)
+`Divi` &nbsp;·&nbsp; `Elementor` &nbsp;·&nbsp; `Max Mega Menu` &nbsp;·&nbsp; `All In One SEO` &nbsp;·&nbsp; `Figma` &nbsp;·&nbsp; `PHP` &nbsp;·&nbsp; `n8n`
 
 </div>
 
@@ -133,18 +58,17 @@ Trigger  ──▶  n8n Engine  ──▶  AI Node  ──▶  Output
 
 <br>
 
-## `STACK`
+### `I build automations that run without me`
 
 <br>
 
 <div align="center">
 
-![WordPress](https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=ffffff)
+![Claude AI](https://img.shields.io/badge/Claude_AI-111111?style=for-the-badge&logo=anthropic&logoColor=ffffff)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai&logoColor=ffffff)
+![Webhooks](https://img.shields.io/badge/Webhooks-111111?style=for-the-badge&logoColor=ffffff)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&logoColor=ffffff)
 
 </div>
 
@@ -154,16 +78,21 @@ Trigger  ──▶  n8n Engine  ──▶  AI Node  ──▶  Output
 
 <br>
 
-## `NOW`
+### `I create Fortnite maps in UEFN`
 
 <br>
 
-```
-▸  MBO 4 Versneld     ████████████████████░  97%   →  June 2025
-▸  Learning           n8n AI agents · Verse · Claude API
-▸  Managing           3 live WordPress sites
-▸  Building           New Fortnite UEFN maps
-```
+<div align="center">
+
+![](https://img.shields.io/badge/Unreal_Engine_5-111111?style=for-the-badge&logo=unrealengine&logoColor=ffffff)
+![](https://img.shields.io/badge/Verse_Language-111111?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
+![](https://img.shields.io/badge/Fortnite_Creative_2.0-111111?style=for-the-badge&logoColor=ffffff)
+
+<br>
+
+[![](https://img.shields.io/badge/↗_fortnite.gg_·_creator_kkr-ffffff?style=for-the-badge&labelColor=111111&color=111111)](https://fortnite.gg/creator?name=kkr)
+
+</div>
 
 <br>
 
@@ -171,16 +100,60 @@ Trigger  ──▶  n8n Engine  ──▶  AI Node  ──▶  Output
 
 <br>
 
+### `Skills`
+
+<br>
+
 <div align="center">
 
-<br>
-
-**`I don't follow the future. I build it.`**
+![](https://geps.dev/progress/92?dangerColor=ffffff&warningColor=ffffff&successColor=ffffff) &nbsp;`WordPress` &nbsp;&nbsp;&nbsp; ![](https://geps.dev/progress/90?dangerColor=ffffff&warningColor=ffffff&successColor=ffffff) &nbsp;`Web Dev` &nbsp;&nbsp;&nbsp; ![](https://geps.dev/progress/88?dangerColor=ffffff&warningColor=ffffff&successColor=ffffff) &nbsp;`n8n`
 
 <br>
 
-[![Email](https://img.shields.io/badge/yazanalsalloum5%40gmail.com-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yazanalsalloum5@gmail.com)
+![](https://geps.dev/progress/85?dangerColor=ffffff&warningColor=ffffff&successColor=ffffff) &nbsp;`AI Tools` &nbsp;&nbsp;&nbsp; ![](https://geps.dev/progress/75?dangerColor=ffffff&warningColor=ffffff&successColor=ffffff) &nbsp;`UEFN` &nbsp;&nbsp;&nbsp; ![](https://geps.dev/progress/70?dangerColor=ffffff&warningColor=ffffff&successColor=ffffff) &nbsp;`Figma`
 
+</div>
+
+<br>
+
+---
+
+<br>
+
+### `Stack`
+
+<br>
+
+<div align="center">
+
+![WordPress](https://img.shields.io/badge/WordPress-111111?style=for-the-badge&logo=wordpress&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=ffffff)
+![n8n](https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=ffffff)
+![Claude](https://img.shields.io/badge/Claude_AI-111111?style=for-the-badge&logo=anthropic&logoColor=ffffff)
+![UEFN](https://img.shields.io/badge/UEFN-111111?style=for-the-badge&logo=unrealengine&logoColor=ffffff)
+
+</div>
+
+<br>
+
+---
+
+<br>
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=36&duration=1&pause=99999&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=60&lines=I+DON%27T+FOLLOW+THE+FUTURE.+I+BUILD+IT." />
+
+<br>
+
+[![](https://img.shields.io/badge/yazanalsalloum5%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:yazanalsalloum5@gmail.com)
+
+<br>
 <br>
 
 </div>
